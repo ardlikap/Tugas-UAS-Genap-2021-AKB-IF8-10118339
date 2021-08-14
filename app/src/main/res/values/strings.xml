@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">UAS 10118339 Muhammad Al Ardlika Prihasiswana</string>
+
+    //Headings
+    <string name="heading_one">Create By</string>
+    <string name="heading_two">About This Apps</string>
+    <string name="heading_three">Menu in This Apps</string>
+    <string name="heading_fourth">This Apps For</string>
+
+    //Description
+    <string name="desc_one">10118339 - Muhammad Al Ardlika Prihasiswana - IF8</string>
+    <string name="desc_two">This application contains details of tourist attractions in West Bandung Regency.</string>
+    <string name="desc_three">Home , Profil Tempat Wisata , Maps</string>
+    <string name="desc_fourth">UAS AKB PROJECT - 10118339</string>
+    <string name="title_activity_findme">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
